@@ -1,0 +1,104 @@
+{
+  "ID": "PPN782360696",
+  "Title": "Ignis",
+  "Topic": "[Die vier Elemente]",
+  "Text": "Das ist ein Test\n\n---\nNoch ein Abschnitt\n\n---\nEin dritter Abschnitt",
+  "canvasWidth": 700,
+  "canvasHeight": 700,
+  "Areas": [
+    {
+      "areaID": "Petersdom",
+      "rect": {
+        "type": "rect",
+        "left": 525.95,
+        "top": 219.55,
+        "width": 100,
+        "height": 50,
+        "fill": "gold",
+        "opacity": 0.5,
+        "scaleX": 0.4,
+        "scaleY": 0.81,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Persons": null,
+      "Text": "",
+      "Links": null
+    },
+    {
+      "areaID": "ignis inschrift",
+      "rect": {
+        "type": "rect",
+        "left": 263,
+        "top": 69,
+        "width": 100,
+        "height": 50,
+        "fill": "darkcyan",
+        "opacity": 0.5,
+        "scaleX": 0.43,
+        "scaleY": 0.4,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Persons": [],
+      "Text": "",
+      "Links": null
+    },
+    {
+      "areaID": "exakt unten rechts",
+      "rect": {
+        "type": "rect",
+        "left": 538,
+        "top": 447,
+        "width": 100,
+        "height": 50,
+        "fill": "brown",
+        "opacity": 0.5,
+        "scaleX": 1,
+        "scaleY": 1,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Persons": null,
+      "Text": "",
+      "Links": null
+    },
+    {
+      "areaID": "exakt oben links",
+      "rect": {
+        "type": "rect",
+        "left": 47,
+        "top": 69,
+        "width": 100,
+        "height": 50,
+        "fill": "green",
+        "opacity": 0.5,
+        "scaleX": 1,
+        "scaleY": 1,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Persons": null,
+      "Text": "",
+      "Links": null
+    }
+  ],
+  "Captured": 0,
+  "Place": "",
+  "YearIssued": "1570",
+  "Persons": [
+    "GND118643177",
+    "GND121978788"
+  ],
+  "Tags": [
+    "mystische 4",
+    "Rom",
+    "Bibel"
+  ],
+  "Links": null,
+  "Status": ""
+}
