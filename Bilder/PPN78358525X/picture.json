@@ -3,6 +3,8 @@
   "Title": "[Caritas]",
   "Topic": "[Die vier Feinde der Rechtschaffenheit und der theologischen Tugenden]",
   "Text": "",
+  "canvasWidth": 0,
+  "canvasHeight": 0,
   "Areas": null,
   "Captured": 0,
   "Place": "",
@@ -12,6 +14,7 @@
     "GND119314851",
     "GND115830359"
   ],
+  "Tags": null,
   "Links": null,
-  "Status": ""
+  "Status": "Bild zugeschnitten"
 }

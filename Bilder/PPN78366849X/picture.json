@@ -3,6 +3,8 @@
   "Title": "[Vertumnus und Pomona]",
   "Topic": "",
   "Text": "",
+  "canvasWidth": 0,
+  "canvasHeight": 0,
   "Areas": null,
   "Captured": 0,
   "Place": "",
@@ -12,6 +14,7 @@
     "GND138085803",
     "GND131525565"
   ],
+  "Tags": null,
   "Links": null,
-  "Status": ""
+  "Status": "Bild zugeschnitten"
 }

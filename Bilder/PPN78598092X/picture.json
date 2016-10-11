@@ -3,6 +3,8 @@
   "Title": "[Bourse überreicht Liedekercke die Schlüssel der Zitadelle]",
   "Topic": "[Die Ereignisse im August 1577 in Antwerpen (Patria Libertati Restituta)]",
   "Text": "",
+  "canvasWidth": 0,
+  "canvasHeight": 0,
   "Areas": null,
   "Captured": 0,
   "Place": "",
@@ -11,6 +13,7 @@
     "GND118643177",
     "GND119314851"
   ],
+  "Tags": null,
   "Links": null,
-  "Status": ""
+  "Status": "Bild zugeschnitten"
 }

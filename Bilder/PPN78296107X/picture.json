@@ -3,6 +3,8 @@
   "Title": "Fecitque Deus duo luminaria magna, luminare majus ut praeßet diei, ...",
   "Topic": "",
   "Text": "",
+  "canvasWidth": 0,
+  "canvasHeight": 0,
   "Areas": null,
   "Captured": 0,
   "Place": "",
@@ -11,6 +13,7 @@
     "GND118643177",
     "GND10006096X"
   ],
+  "Tags": null,
   "Links": null,
-  "Status": ""
+  "Status": "Bild zugeschnitten"
 }

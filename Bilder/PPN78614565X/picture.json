@@ -3,6 +3,8 @@
   "Title": "[Luxuria]",
   "Topic": "[Die sieben Todsünden]",
   "Text": "",
+  "canvasWidth": 0,
+  "canvasHeight": 0,
   "Areas": null,
   "Captured": 0,
   "Place": "",
@@ -12,6 +14,7 @@
     "GND122093798",
     "GND119665441"
   ],
+  "Tags": null,
   "Links": null,
-  "Status": ""
+  "Status": "Bild zugeschnitten"
 }
