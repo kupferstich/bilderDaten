@@ -3,52 +3,9 @@
   "Title": "Dixit Deus fiat firmamentum in medio aquarum ...",
   "Topic": "",
   "Text": "",
-  "Areas": [
-    {
-      "areaID": "Neuer Bereich",
-      "rect": {
-        "type": "rect",
-        "left": 380,
-        "top": 209,
-        "width": 100,
-        "height": 50,
-        "fill": "blue",
-        "opacity": 0.5,
-        "scaleX": 1,
-        "scaleY": 1,
-        "hasRotatingPoint": false,
-        "canvasWidth": 0,
-        "canvasHeight": 0
-      },
-      "Shape": "rect",
-      "Coords": "",
-      "Persons": null,
-      "Text": "",
-      "Links": null
-    },
-    {
-      "areaID": "Neuer Bereich",
-      "rect": {
-        "type": "rect",
-        "left": 386,
-        "top": 301,
-        "width": 100,
-        "height": 50,
-        "fill": "orange",
-        "opacity": 0.5,
-        "scaleX": 1,
-        "scaleY": 2.22,
-        "hasRotatingPoint": false,
-        "canvasWidth": 0,
-        "canvasHeight": 0
-      },
-      "Shape": "rect",
-      "Coords": "",
-      "Persons": null,
-      "Text": "",
-      "Links": null
-    }
-  ],
+  "canvasWidth": 700,
+  "canvasHeight": 700,
+  "Areas": [],
   "Captured": 0,
   "Place": "",
   "YearIssued": "1590",
@@ -59,5 +16,5 @@
   ],
   "Tags": null,
   "Links": null,
-  "Status": ""
+  "Status": "Bild zugeschnitten"
 }
