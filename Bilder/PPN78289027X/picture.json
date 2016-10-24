@@ -22,7 +22,6 @@
       },
       "Shape": "rect",
       "Coords": "",
-      "Persons": null,
       "Text": "Maria und Jesus sind auf dem Esel. Josef hält die Zügel und führt seine Familie nach Jerusalem.",
       "Links": null
     },
@@ -42,7 +41,6 @@
       },
       "Shape": "rect",
       "Coords": "",
-      "Persons": null,
       "Text": "",
       "Links": null
     }
@@ -61,7 +59,7 @@
     "acht Frauen"
   ],
   "Links": null,
-  "Status": "fertig",
+  "Status": "Bild zugeschnitten",
   "BlogDate": "2016-10-19T09:53:35.953Z",
   "PublishDate": "2016-10-19T09:53:35.953Z"
 }

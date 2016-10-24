@@ -1,19 +1,43 @@
 {
   "ID": "PPN78358086X",
-  "Title": "Occidens",
-  "Topic": "[Die vier Winde]",
+  "Title": "Occidens - Der Westwind",
+  "Topic": "Die vier Winde",
   "Text": "",
-  "canvasWidth": 0,
-  "canvasHeight": 0,
-  "Areas": null,
+  "canvasWidth": 700,
+  "canvasHeight": 700,
+  "Areas": [
+    {
+      "areaID": "Bildunterschrift",
+      "rect": {
+        "type": "rect",
+        "left": 46,
+        "top": 642,
+        "width": 100,
+        "height": 50,
+        "fill": "blue",
+        "opacity": 0.5,
+        "scaleX": 4.82,
+        "scaleY": 1,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "Ver erat, irriguos errabat Flora per hortos, / Dum Zephÿrus tepido mulcebat rura sereno: / Utque Deam vidit, caluit, fugit illa, sed iste / Fortior insequitur dando illi nomina nuptæ. / Possidet vnde Dea arbitrium cum nomine florum: / Dum passim pictis incinctæ vestibus Horæ / Et Charites flores rapiunt, nectuntque corollas: / Plectraque cum Musis torquet resonantia Phœbus.\n---\nEs war Frühling, Flora irrte durch die bewässerten Gärten, / solange der Zephyr die Länder mit heiterer Milde streichelte: / sobald er die Göttin erblickte, war er entflammt; jene ergriff die Flucht, aber er / verfolgte sie noch heftiger, indem er jener Braut den Namen verlieh. / Daher hat die Göttin die Herrschaft und den Namen der Blumen, / während überall die Horen, umgürtet in bunten Kleidern, / und die Grazien Blumen an sich reißen, Kränzchen flechten / und die widerschallenden Plektren Phoebus mit den Musen wendet.",
+      "Links": null
+    }
+  ],
   "Captured": 0,
   "Place": "",
-  "YearIssued": "1580 [ca. 1580]",
+  "YearIssued": "1580",
   "Persons": [
     "GND118643177",
     "GND121978788"
   ],
-  "Tags": null,
+  "Tags": [
+    "Die vier Winde"
+  ],
   "Links": null,
-  "Status": "Bild zugeschnitten"
+  "Status": "Texte gepflegt",
+  "BlogDate": "2016-10-24T15:55:19.908Z",
+  "PublishDate": "2016-10-24T15:55:19.908Z"
 }

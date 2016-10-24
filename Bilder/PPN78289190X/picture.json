@@ -22,7 +22,6 @@
       },
       "Shape": "rect",
       "Coords": "",
-      "Persons": null,
       "Text": "",
       "Links": null
     },
@@ -42,7 +41,6 @@
       },
       "Shape": "rect",
       "Coords": "",
-      "Persons": null,
       "Text": "",
       "Links": null
     },
@@ -62,7 +60,6 @@
       },
       "Shape": "rect",
       "Coords": "",
-      "Persons": null,
       "Text": "",
       "Links": null
     }
@@ -80,7 +77,7 @@
     "acht Frauen"
   ],
   "Links": null,
-  "Status": "fertig",
+  "Status": "Bild zugeschnitten",
   "BlogDate": "2016-10-19T13:23:56.717Z",
   "PublishDate": "2016-10-19T13:23:56.717Z"
 }

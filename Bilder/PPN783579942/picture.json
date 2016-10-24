@@ -1,16 +1,43 @@
 {
   "ID": "PPN783579942",
-  "Title": "Oriens",
-  "Topic": "[Die vier Winde]",
+  "Title": "Oriens - Der Ostwind",
+  "Topic": "Die vier Winde",
   "Text": "",
-  "Areas": null,
+  "canvasWidth": 700,
+  "canvasHeight": 700,
+  "Areas": [
+    {
+      "areaID": "Bildunterschrift",
+      "rect": {
+        "type": "rect",
+        "left": 34,
+        "top": 653,
+        "width": 100,
+        "height": 50,
+        "fill": "blue",
+        "opacity": 0.5,
+        "scaleX": 4.89,
+        "scaleY": 0.88,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "Eurus ab Aurora fugiens dum flatibus vrget, / Regna sub ortiuo Nabathæa iacentia sole. / Pubentes vario et flore et gramine campos / Pingit odoriferi mollis Lasciuia Veris. / Rosida puniceo Pallanteas exit amictu, / Et roseis cælo fulgens Aurora capillis / Insequitur iuuenem, cano Tithone relicto: / Graminaque algenti perfundit mollia rore.\n---\nWährend der vor Aurora fliehende Eurus mit Winden / die unter der aufgehenden Sonne liegenden morgenländischen Königreiche drängt, / färbt die mit bunter Blüte und Gras überzogenen Felder / das Spiel des duftenden, milden Frühlings. / Die taufeuchte Tochter des Pallas geht in ihrem rosa Gewande hinaus, / Aurora, mit roten Haaren glänzend am Himmel, / verfolgt einen jungen Mann, nachdem sie den grauen Tithon zurückgelassen hatte: / Und sie benetzt mit kaltem Tau die weichen Gräser. \n\n",
+      "Links": null
+    }
+  ],
   "Captured": 0,
   "Place": "",
-  "YearIssued": "1580 [ca. 1580]",
+  "YearIssued": "1580 ",
   "Persons": [
     "GND118643177",
     "GND121978788"
   ],
+  "Tags": [
+    "Die vier Winde"
+  ],
   "Links": null,
-  "Status": ""
+  "Status": "Texte gepflegt",
+  "BlogDate": "2016-10-24T15:52:18.572Z",
+  "PublishDate": "2016-10-24T15:52:18.572Z"
 }
