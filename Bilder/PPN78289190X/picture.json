@@ -5,16 +5,82 @@
   "Text": "",
   "canvasWidth": 700,
   "canvasHeight": 700,
-  "Areas": [],
+  "Areas": [
+    {
+      "areaID": "Katze im Hintergrund",
+      "rect": {
+        "type": "rect",
+        "left": 131,
+        "top": 125,
+        "width": 100,
+        "height": 50,
+        "fill": "orange",
+        "opacity": 0.5,
+        "scaleX": 1,
+        "scaleY": 1,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Persons": null,
+      "Text": "",
+      "Links": null
+    },
+    {
+      "areaID": "Brunnen",
+      "rect": {
+        "type": "rect",
+        "left": 535,
+        "top": 366,
+        "width": 100,
+        "height": 50,
+        "fill": "blue",
+        "opacity": 0.5,
+        "scaleX": 1,
+        "scaleY": 1.94,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Persons": null,
+      "Text": "",
+      "Links": null
+    },
+    {
+      "areaID": "Inschrift",
+      "rect": {
+        "type": "rect",
+        "left": 168,
+        "top": 551,
+        "width": 100,
+        "height": 50,
+        "fill": "brown",
+        "opacity": 0.5,
+        "scaleX": 3.26,
+        "scaleY": 0.74,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Persons": null,
+      "Text": "",
+      "Links": null
+    }
+  ],
   "Captured": 0,
   "Place": "",
-  "YearIssued": "1565 [ca. 1565]",
+  "YearIssued": "1565",
   "Persons": [
     "GND118547658",
     "GND100811957",
     "GND1038562066"
   ],
-  "Tags": null,
+  "Tags": [
+    "Bibel",
+    "acht Frauen"
+  ],
   "Links": null,
-  "Status": "Bild zugeschnitten"
+  "Status": "fertig",
+  "BlogDate": "2016-10-19T13:23:56.717Z",
+  "PublishDate": "2016-10-19T13:23:56.717Z"
 }
