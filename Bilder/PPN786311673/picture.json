@@ -3,6 +3,8 @@
   "Title": "[Nacht]",
   "Topic": "[Allegorischer Triumphzug]",
   "Text": "",
+  "canvasWidth": 0,
+  "canvasHeight": 0,
   "Areas": null,
   "Captured": 0,
   "Place": "",
@@ -11,6 +13,9 @@
     "GND132316307",
     "GND119314851"
   ],
+  "Tags": null,
   "Links": null,
-  "Status": ""
+  "Status": "",
+  "BlogDate": "0001-01-01T00:00:00Z",
+  "PublishDate": "0001-01-01T00:00:00Z"
 }

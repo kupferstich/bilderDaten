@@ -1,22 +1,149 @@
 {
   "ID": "PPN78357035X",
-  "Title": "Circulus Vicissitudinis Rerum Humanarum",
-  "Topic": "[Circulus Vicissitudinis Rerum Humanarum] = [Der Lauf der Welt]",
-  "Text": "",
-  "canvasWidth": 0,
-  "canvasHeight": 0,
-  "Areas": null,
+  "Title": "Der Lauf der Welt",
+  "Topic": "Circulus Vicissitudinis",
+  "Text": "Dieser Kupferstich ist der erste aus der Serie _Lauf der Welt_. Der Titel der Serie ist hier auf der Kugel zu sehen. Dieser Stich stellt dabei das Titelblatt dar und symbolisiert dabei den Gedanken des Kreislaufes.",
+  "canvasWidth": 700,
+  "canvasHeight": 700,
+  "Areas": [
+    {
+      "areaID": "Weltkugel im Zentrum",
+      "rect": {
+        "type": "rect",
+        "left": 161.69,
+        "top": 35,
+        "width": 100,
+        "height": 50,
+        "fill": "brown",
+        "opacity": 0.5,
+        "scaleX": 3.9,
+        "scaleY": 8.94,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Persons": null,
+      "Text": "Bei dieser Symbolik steht der Kreislaufgedanke im Zentrum. Zu erkennen ist zunächst eine Kugel, um die herum sieben Figuren platziert sind.",
+      "Links": null
+    },
+    {
+      "areaID": "Inschrift",
+      "rect": {
+        "type": "rect",
+        "left": 20,
+        "top": 504,
+        "width": 100,
+        "height": 50,
+        "fill": "blue",
+        "opacity": 0.5,
+        "scaleX": 6.48,
+        "scaleY": 0.72,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Persons": null,
+      "Text": "",
+      "Links": null
+    },
+    {
+      "areaID": "Chronos",
+      "rect": {
+        "type": "rect",
+        "left": 5,
+        "top": 14,
+        "width": 100,
+        "height": 50,
+        "fill": "gold",
+        "opacity": 0.5,
+        "scaleX": 1.66,
+        "scaleY": 9.08,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Persons": null,
+      "Text": "Auf der linken Seite steht der doppelt geflügelte Chronos, welcher ganz klar anhand der dargestellten Symbole identifiziert werden kann. Auf seinem Kopf zeigt eine Sanduhr die Zeit an. Die Schlange um seinen Oberkörper symbolisiert dabei die Ewigkeit.\n\nUnterhalb von Chronos wurde dieser lateinisch mit TEMPUS (Zeit) bezeichnet.",
+      "Links": null
+    },
+    {
+      "areaID": "Circulus vicissitudinis rerum humanarum",
+      "rect": {
+        "type": "rect",
+        "left": 235,
+        "top": 183,
+        "width": 100,
+        "height": 50,
+        "fill": "darkcyan",
+        "opacity": 0.5,
+        "scaleX": 2.18,
+        "scaleY": 2.02,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Persons": null,
+      "Text": "",
+      "Links": null
+    },
+    {
+      "areaID": "Ewigkeit",
+      "rect": {
+        "type": "rect",
+        "left": 24,
+        "top": 112,
+        "width": 100,
+        "height": 50,
+        "fill": "black",
+        "opacity": 0.5,
+        "scaleX": 1,
+        "scaleY": 1.78,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Persons": null,
+      "Text": "Die Schlange wickelt sich um den Oberkörper von Chronos und symbolisiert so die Ewigkeit.",
+      "Links": null
+    },
+    {
+      "areaID": "Sol und Luna",
+      "rect": {
+        "type": "rect",
+        "left": 554,
+        "top": 38,
+        "width": 100,
+        "height": 50,
+        "fill": "orange",
+        "opacity": 0.5,
+        "scaleX": 1.42,
+        "scaleY": 9.06,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Persons": null,
+      "Text": "Sol (Sonne) und Luna (Mond) symbolisieren den Tag und die Nacht.\n\nUnter den Figuren wurde DIES (Tag) und NOX (Nacht) geschrieben.",
+      "Links": null
+    }
+  ],
   "Captured": 0,
   "Place": "",
-  "YearIssued": "1625 [ca. 1625]",
+  "YearIssued": "1625",
   "Persons": [
     "0001",
     "0004",
     "0005",
     "0006",
-    "0007"
+    "0007",
+    "GND118643177"
   ],
-  "Tags": null,
+  "Tags": [
+    "Der Einfluss der Götter",
+    "Circulus Vicissitudinis"
+  ],
   "Links": null,
-  "Status": "Bild zugeschnitten"
+  "Status": "fertig",
+  "BlogDate": "2016-10-20T19:39:47.298Z",
+  "PublishDate": "2016-10-20T19:39:47.298Z"
 }
