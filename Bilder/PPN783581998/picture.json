@@ -1,21 +1,140 @@
 {
   "ID": "PPN783581998",
-  "Title": "Septentrio",
-  "Topic": "[Die vier Winde]",
-  "Text": "",
-  "canvasWidth": 0,
-  "canvasHeight": 0,
-  "Areas": null,
+  "Title": "Septentrio - Der Nordwind",
+  "Topic": "Die vier Winde",
+  "Text": "Dieses ist der vierte Kupferstich aus der Serie die vier Winde. Inhalt ist der Raub der Nymphe Orithiæ nach Thrakien, Tochter des attischen Königs Erechtheus, durch den Nordwind Boreas dargestellt ist. Der Name Oreithya  lässt sich in „im Gebirge stürmend“ übersetzen. Am oberen Bildrand treten Circius und Aquilo als stark pustende Windsköpfe auf. Die Szene ereignet sich oberhalb des Ägäischen Meeres und des Hauptflusses Hebrus. Links unter der Wolkenschicht fliehen Harpijiæ , sogenannte mythologische und weibliche Mischwesen, die in ihrer Gestalt Mädchen und Frauen jedoch durch ihre abschreckenden Extremitäten wie Klauen oder Flügeln auch Tieren ähneln. Sie verkörpern die Sturmwinde und bestraften den Phineus, welcher seine Seherkunst dazu missbraucht hatte den Menschen allzu unverhüllte Offenbarungen zu zeigen, indem sie ihn mit Unrat besudelten und seine gesamten Speisen verzehrten um ihn verhungern zu lassen. Am unteren, rechten Kupferstichrand steht Calais und Zethe  geschrieben, welche in unmittelbarer Beziehung zu den Harpyien stehen. Als Kinder des Boreas und der Oreithya, nahmen die geflügelten Zwillingsbrüder am Argonautenzug auf Bitten ihres Schwagers Phineus (Ehemann der Schwester Cleopatra) teil um die Harpyien zu vertreiben und Phineus von den Unholdinnen zu befreien. Unter den Argonauten  versteht sich eine Gruppe griechischer, mystischer Helden. Deren Anführer, Iason, ausgeschickt wird um das goldene Vlies, das goldene Fell des sprechenenden und fliegenden Widders Chrysomallos, in Kolchis zu holen. Dieses Vorhaben gelingt den Argonauten durch die Hilfe der Medea, der Königstochter des Aietes von Kolchis. Rechts unter dem Berg ist die Aufschrift Ciconu terrae erkennbar. ",
+  "canvasWidth": 700,
+  "canvasHeight": 700,
+  "Areas": [
+    {
+      "areaID": "Bildunterschrift",
+      "rect": {
+        "type": "rect",
+        "left": 45,
+        "top": 638,
+        "width": 100,
+        "height": 50,
+        "fill": "blue",
+        "opacity": 0.5,
+        "scaleX": 4.75,
+        "scaleY": 1.08,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "Verrit humum Boreas, et amatam amplectitur alis / Orÿthiam, arserunt agitati fortius ignes. / Vtque habuit Ciconum populos, et mœnia raptor, / Et genitrix facta est, Coniunxque Actæa Tÿranni. / Utque fuit geminos enixa puerpera natos / Cetera quæ matris, pennas Genitoris habebant, / Vellera cum Minÿs nitido radiantia villo / Per mare non notum prima petiere carina.\n---\nBoreas fegte über den Erdboden und umarmt mit seinen Schwingen die geliebte / Orythia, die Feuer entbrannten und wurden noch heftiger erregt. / Sobald der Räuber die Völker der Kikonen und die Mauer erreicht hatte, / wurde die Aktäerin Mutter und Gattin des Tyrannen. / Sobald die Wöchnerin Zwillingsjungen geboren hatte, / hatten sie das Übrige von der Mutter, die Flügel vom Vater. / Sie suchten mit den Minyern das goldene Vlies von glänzenden Zotteln / auf dem unbekannten Meer mit dem ersten Schiff.",
+      "Links": null
+    },
+    {
+      "areaID": "Orithiæ",
+      "rect": {
+        "type": "rect",
+        "left": 306,
+        "top": 56,
+        "width": 100,
+        "height": 50,
+        "fill": "white",
+        "opacity": 0.5,
+        "scaleX": 1,
+        "scaleY": 1.88,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "Darstellung der Nymphe Orithiæ, die Tochter des attischen Königs [Erechtheus](https://de.wikipedia.org/wiki/Erechtheus).",
+      "Links": null
+    },
+    {
+      "areaID": "Aquilo",
+      "rect": {
+        "type": "rect",
+        "left": 373,
+        "top": 8,
+        "width": 100,
+        "height": 50,
+        "fill": "brown",
+        "opacity": 0.5,
+        "scaleX": 1,
+        "scaleY": 1.42,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "Aquilo ([siehe Wikipedia](https://de.wikipedia.org/wiki/Boreas#Boreas_und_Aquilo_bei_den_R.C3.B6mern)) war in der römischen Mythologie die Darstellung des Nordwindes. Somit werden in diesem Kupferstich viele unterschiedlichen Mythologien vereint.",
+      "Links": null
+    },
+    {
+      "areaID": "Circius",
+      "rect": {
+        "type": "rect",
+        "left": 134,
+        "top": 14,
+        "width": 100,
+        "height": 50,
+        "fill": "darkcyan",
+        "opacity": 0.5,
+        "scaleX": 1,
+        "scaleY": 1.36,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "Nach dem [römischen Windsystem](https://de.wikipedia.org/wiki/Anemoi#R.C3.B6misches_Windsystem) ist Circius auch ein Nordwind, welcher aus Nordwest-Drittel-Südwest weht.",
+      "Links": null
+    },
+    {
+      "areaID": "Boreas",
+      "rect": {
+        "type": "rect",
+        "left": 223,
+        "top": 28,
+        "width": 100,
+        "height": 50,
+        "fill": "blue",
+        "opacity": 0.5,
+        "scaleX": 1,
+        "scaleY": 3.36,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "Nach der griechischen Mythologie ist [Boreas](https://de.wikipedia.org/wiki/Boreas) die Personifikation des Nordwindes. ",
+      "Links": null
+    },
+    {
+      "areaID": "Ägäisches Meer",
+      "rect": {
+        "type": "rect",
+        "left": 139,
+        "top": 401,
+        "width": 100,
+        "height": 50,
+        "fill": "olive",
+        "opacity": 0.5,
+        "scaleX": 2.86,
+        "scaleY": 2.65,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "In der unteren Hälfte des Bildes ist das [ägäische Meer](https://de.wikipedia.org/wiki/%C3%84g%C3%A4isches_Meer) abgebildet.",
+      "Links": null
+    }
+  ],
   "Captured": 0,
   "Place": "",
-  "YearIssued": "1580 [ca. 1580]",
+  "YearIssued": "1580",
   "Persons": [
     "GND118643177",
     "GND121978788"
   ],
-  "Tags": null,
+  "Tags": [
+    "Die vier Winde",
+    "Die vier Haupthimmelsrichtungen",
+    "Die Zahl vier"
+  ],
   "Links": null,
-  "Status": "Bild zugeschnitten",
-  "BlogDate": "0001-01-01T00:00:00Z",
-  "PublishDate": "0001-01-01T00:00:00Z"
+  "Status": "Texte werden gepflegt",
+  "BlogDate": "2016-10-25T05:13:35.078Z",
+  "PublishDate": "2016-10-25T05:13:35.078Z"
 }
