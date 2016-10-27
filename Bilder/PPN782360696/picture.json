@@ -138,6 +138,25 @@
       "Coords": "",
       "Text": "",
       "Links": null
+    },
+    {
+      "areaID": "Neuer Bereich",
+      "rect": {
+        "type": "rect",
+        "left": 100,
+        "top": 100,
+        "width": 100,
+        "height": 50,
+        "fill": "orange",
+        "opacity": 0.5,
+        "scaleX": 1,
+        "scaleY": 1,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "",
+      "Links": null
     }
   ],
   "Captured": 0,
@@ -152,6 +171,7 @@
     "Rom",
     "Bibel"
   ],
+  "Posts": null,
   "Links": null,
   "Status": "Bild zugeschnitten",
   "BlogDate": "2016-10-19T13:22:10.709Z",
