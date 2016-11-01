@@ -2,7 +2,7 @@
   "ID": "PPN783579942",
   "Title": "Oriens - Der Ostwind",
   "Topic": "Die vier Winde",
-  "Text": "Auszug aus dem Katalog:\n\nDie einzige Ausnahme bildet der Kupferstich Oriens, in welchem der Hauptwind Eurus rechts oben in tradierter Darstellungsweise als kleiner, pustender Windskopf dargestellt wird. Neben dem südöstlich wehenden Wind Eurus wird der Zwischenwind Cecias als Windskopf in der linken, oberen Ecke des Kupferstiches gezeigt. Des Weiteren sind die Personifikationen des Ostwinds Apeliotes und der Mutter der Winde Avrora (Eos) auszumachen. Unter ihnen erstreckt sich links der Strom Euphrat, wobei mittig Tentoria fratrum Nabath sowie Nabath filius Ismaël geschrieben steht, welche auf das Reich Nabathea und dessen Söhne verweisen soll. Auf der rechten Seite ist der Persische Golf, als Sinvs Persicvs bezeichnet, zu erkennen.",
+  "Text": "Im Kupferstich \"Oriens\" (Osten) wird Ostwind Eurus rechts oben als kleiner, pustender Windskopf dargestellt, in der linken, oberen Ecke dagegen der Nord-Ostwind Cecias. Die Personifikationen des Süd-Ostwinds Apeliotes und der Mutter der Winde Aurora (Eos) bestimmen das Bild. Unter ihnen erstreckt sich links der Strom Euphrat, wobei mittig Tentoria fratrum Nabath sowie Nabath filius Ismaël geschrieben steht, welche auf das Reich Nabathea und dessen Söhne verweisen soll. Auf der rechten Seite ist der Persische Golf, als Sinus Persicus bezeichnet, zu erkennen.",
   "canvasWidth": 700,
   "canvasHeight": 700,
   "Areas": [
@@ -22,7 +22,7 @@
       },
       "Shape": "rect",
       "Coords": "",
-      "Text": "Eurus ab Aurora fugiens dum flatibus vrget, / Regna sub ortiuo Nabathæa iacentia sole. / Pubentes vario et flore et gramine campos / Pingit odoriferi mollis Lasciuia Veris. / Rosida puniceo Pallanteas exit amictu, / Et roseis cælo fulgens Aurora capillis / Insequitur iuuenem, cano Tithone relicto: / Graminaque algenti perfundit mollia rore.\n---\nWährend der vor Aurora fliehende Eurus mit Winden / die unter der aufgehenden Sonne liegenden morgenländischen Königreiche drängt, / färbt die mit bunter Blüte und Gras überzogenen Felder / das Spiel des duftenden, milden Frühlings. / Die taufeuchte Tochter des Pallas geht in ihrem rosa Gewande hinaus, / Aurora, mit roten Haaren glänzend am Himmel, / verfolgt einen jungen Mann, nachdem sie den grauen Tithon zurückgelassen hatte: / Und sie benetzt mit kaltem Tau die weichen Gräser. \n\n",
+      "Text": "Eurus ab Aurora fugiens dum flatibus vrget, / Regna sub ortiuo Nabathæa iacentia sole. / Pubentes vario et flore et gramine campos / Pingit odoriferi mollis Lasciuia Veris. / Rosida puniceo Pallanteas exit amictu, / Et roseis cælo fulgens Aurora capillis / Insequitur iuuenem, cano Tithone relicto: / Graminaque algenti perfundit mollia rore.\n\n---\n\nWährend der vor Aurora fliehende Eurus mit Winden / die unter der aufgehenden Sonne liegenden morgenländischen Königreiche drängt, / färbt die mit bunter Blüte und Gras überzogenen Felder / das Spiel des duftenden, milden Frühlings. / Die taufeuchte Tochter des Pallas geht in ihrem rosa Gewande hinaus, / Aurora, mit roten Haaren glänzend am Himmel, / verfolgt einen jungen Mann, nachdem sie den grauen Tithon zurückgelassen hatte: / Und sie benetzt mit kaltem Tau die weichen Gräser. \n\n",
       "Links": null
     },
     {
@@ -41,7 +41,7 @@
       },
       "Shape": "rect",
       "Coords": "",
-      "Text": "Der [Hauptwind Eurus](https://de.wikipedia.org/wiki/Euros) ist in traditioneller weise als kleiner Pustender Windskopf dargestellt.",
+      "Text": "Der [Eurus](https://de.wikipedia.org/wiki/Euros) pustet in südöstlicher Richtung",
       "Links": null
     },
     {
@@ -60,7 +60,7 @@
       },
       "Shape": "rect",
       "Coords": "",
-      "Text": "Der direkt aus dem osten wehende Wind wurde [Apheliotes](https://de.wikipedia.org/wiki/Euros) genannt.",
+      "Text": "Der Ostwind [Apeliotes](https://de.wikipedia.org/wiki/Euros) wird hier als Jüngling dargestellt.",
       "Links": null
     },
     {
@@ -136,7 +136,7 @@
       },
       "Shape": "rect",
       "Coords": "",
-      "Text": "Die Inschrift Sinvs Persicvs steht für den [persischen Golf](https://de.wikipedia.org/wiki/Persischer_Golf).",
+      "Text": "Die Inschrift Sinus Persicus steht für den [persischen Golf](https://de.wikipedia.org/wiki/Persischer_Golf).",
       "Links": null
     }
   ],
@@ -154,7 +154,7 @@
   ],
   "Posts": null,
   "Links": null,
-  "Status": "fertig",
+  "Status": "zur Überarbeitung",
   "BlogDate": "2016-10-27T16:07:18.711Z",
   "PublishDate": "2016-10-27T16:07:18.711Z"
 }

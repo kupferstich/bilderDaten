@@ -2,7 +2,7 @@
   "ID": "PPN783580398",
   "Title": "Meridies - Der Südwind",
   "Topic": "Die vier Winde",
-  "Text": "",
+  "Text": "Meridies ist der [lateinische Begriff für Süden](https://de.wiktionary.org/wiki/meridies). Wie bereits in den anderen Bildern [der vier Winde](https://kupferstich.github.io/tags/die-vier-winde/) sind zwei Südwinde links und rechts als kleine blasende Köpfe dargestellt.\n\nWieder ganz spannend ist die unheimlich starke Symbolsprache hier in dem Bild. \n",
   "canvasWidth": 700,
   "canvasHeight": 700,
   "Areas": [
@@ -22,7 +22,121 @@
       },
       "Shape": "rect",
       "Coords": "",
-      "Text": "Euolat vt madidis cœlo alis Africus Auster, / Terribilem picea tinctus caligine vultum, / Fit fragor, et denso funduntur ab Æthere nymbi, / Proueniunt tonitrus, atque horrida fulmina flammis. / Hunc turrita Deûm mater Ops pectoris ampli / Insequitur, viridi circundata veste, Deorum / Terrigenas animas Cœlo quæ destinat alto, / Terrarumque Orbem turritis vrbibus ornat.\n---\nWie der afrikanische Auster auf nassen Schwingen sich zum Himmel emporschwingt, / das schreckliche Gesicht mit schwarzem Pech benetzt, / entsteht ein Getöse und Wolken ergießen sich vom dichten Himmel, / Donnerschläge kommen hervor und schreckliche Blitze unter Flammen. / Die hochaufragende Mutter Ops von breiter Brust / umgeben mit einem grünen Kleid, verfolgt diesen Gott der Götter. / Diese bestimmt die erdgeborenen Seelen vom hohen Himmel aus / und schmückt den Erdkreis mit Türmen bewehrten Städten.",
+      "Text": "Euolat vt madidis cœlo alis Africus Auster, / Terribilem picea tinctus caligine vultum, / Fit fragor, et denso funduntur ab Æthere nymbi, / Proueniunt tonitrus, atque horrida fulmina flammis. / Hunc turrita Deûm mater Ops pectoris ampli / Insequitur, viridi circundata veste, Deorum / Terrigenas animas Cœlo quæ destinat alto, / Terrarumque Orbem turritis vrbibus ornat.\n\n---\n\nWie der afrikanische Auster auf nassen Schwingen sich zum Himmel emporschwingt, / das schreckliche Gesicht mit schwarzem Pech benetzt, / entsteht ein Getöse und Wolken ergießen sich vom dichten Himmel, / Donnerschläge kommen hervor und schreckliche Blitze unter Flammen. / Die hochaufragende Mutter Ops von breiter Brust / umgeben mit einem grünen Kleid, verfolgt diesen Gott der Götter. / Diese bestimmt die erdgeborenen Seelen vom hohen Himmel aus / und schmückt den Erdkreis mit Türmen bewehrten Städten.",
+      "Links": null
+    },
+    {
+      "areaID": "VIA LACTEA",
+      "rect": {
+        "type": "rect",
+        "left": 21,
+        "top": 10,
+        "width": 100,
+        "height": 50,
+        "fill": "brown",
+        "opacity": 0.5,
+        "scaleX": 3.63,
+        "scaleY": 3.63,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "Durch die obere linke Hälfte des Bildes läuft ein Band, weches mit VIA LACTEA (=Milchstraße) bezeichnet ist.",
+      "Links": null
+    },
+    {
+      "areaID": "Tempel unterhalb VIA LACTEA",
+      "rect": {
+        "type": "rect",
+        "left": 211.7,
+        "top": 21,
+        "width": 100,
+        "height": 50,
+        "fill": "darkcyan",
+        "opacity": 0.5,
+        "scaleX": 1.75,
+        "scaleY": 4.42,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "Die Tempel sind mit _Secreta Deorum_ (=Geheimis der Götter) bezeichnet.\nEigentlich ist es wirklich ganz spannend, was die hineinströmenden nackten personen hier bedeuten mögen. (Kommentare sind hierzu willkommen)",
+      "Links": null
+    },
+    {
+      "areaID": "Johan Sadeler",
+      "rect": {
+        "type": "rect",
+        "left": 313,
+        "top": 617,
+        "width": 100,
+        "height": 50,
+        "fill": "darkcyan",
+        "opacity": 0.5,
+        "scaleX": 1,
+        "scaleY": 0.62,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "Bezeichnung des Verlegers",
+      "Links": null
+    },
+    {
+      "areaID": "AVSTER",
+      "rect": {
+        "type": "rect",
+        "left": 373.7,
+        "top": 41,
+        "width": 100,
+        "height": 50,
+        "fill": "gold",
+        "opacity": 0.5,
+        "scaleX": 1.86,
+        "scaleY": 5.94,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "[Auster](https://de.wikipedia.org/wiki/Auster_(Wind)) wurde in Rom der Südwind bezeichnet. Hier ist er mit ganz starken Symbolen abgebildet.",
+      "Links": null
+    },
+    {
+      "areaID": "OPS",
+      "rect": {
+        "type": "rect",
+        "left": 92,
+        "top": 11,
+        "width": 100,
+        "height": 50,
+        "fill": "olive",
+        "opacity": 0.5,
+        "scaleX": 1.26,
+        "scaleY": 5.04,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "[Ops](https://de.wikipedia.org/wiki/Ops) steht für den Erntesegen und die Natur. Sie war die Gattin von Saturnus und die Mutter der Jupiter.\n\nDoch warum ist auf ihrem Kopf eine Burg abgebildet?",
+      "Links": null
+    },
+    {
+      "areaID": "Der Fluss Nil",
+      "rect": {
+        "type": "rect",
+        "left": 94,
+        "top": 460,
+        "width": 100,
+        "height": 50,
+        "fill": "blue",
+        "opacity": 0.5,
+        "scaleX": 4.42,
+        "scaleY": 3.44,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "",
       "Links": null
     }
   ],
@@ -35,10 +149,12 @@
   ],
   "Tags": [
     "Die vier Winde",
-    "Die vier Haupthimmelsrichtungen"
+    "Die vier Haupthimmelsrichtungen",
+    "Nil"
   ],
+  "Posts": null,
   "Links": null,
-  "Status": "Texte werden gepflegt",
-  "BlogDate": "0001-01-01T00:00:00Z",
-  "PublishDate": "0001-01-01T00:00:00Z"
+  "Status": "fertig",
+  "BlogDate": "2016-10-30T15:43:28.796Z",
+  "PublishDate": "2016-10-30T15:43:28.796Z"
 }
