@@ -1,11 +1,221 @@
 {
   "ID": "PPN78358525X",
-  "Title": "[Caritas]",
-  "Topic": "[Die vier Feinde der Rechtschaffenheit und der theologischen Tugenden]",
-  "Text": "",
-  "canvasWidth": 0,
-  "canvasHeight": 0,
-  "Areas": null,
+  "Title": "Caritas - Nächstenliebe (Tugend)",
+  "Topic": "Die vier Feinde der Rechtschaffenheit und die theologischen Tugenden",
+  "Text": "Caritas ist eines der drei beschriebenen Blätter der Serie. Die Personifikation der Theologischen Tugend Caritas ist durch konventionelle Attribute als diese erkennbar: das Kind auf ihrem Arm und die Kinder um sie herum.\nZusätzlich wird die Tugend der Nächstenliebe durch die Szenen im Hintergrund anschaulich gemacht.  \n\nEin spannender Bruch mit der gängigen Motivgeschichte von Tugenddarstellungen ist die aktive Kommunikation zwischen Caritas und Mensch.  Die direkte Ansprache des Menschen, und somit auch des Betrachters, verstärkt die didaktische Wirkung der Serie erheblich: \n\nCaritas weist einem sitzenden Mann den Weg, indem sie auf Christus, den guten Hirten, deutet. Neben diesem allegorischen Fingerzeig lassen sich im Hintergrund das Noli me tangere (\"berühr mich nicht\") sowie zwei weitere Szenen aus dem Gleichnis des verlorenen Sohns ausmachen – Geschichten der Sündenvergebung aus der Bibel, die den Büßer zu irdischer Nächstenliebe bewegen sollen. Auch ihm wird in der Himmelsöffnung das Ewige Leben in Aussicht gestellt.",
+  "canvasWidth": 700,
+  "canvasHeight": 700,
+  "Areas": [
+    {
+      "areaID": "Bildunterschrift",
+      "rect": {
+        "type": "rect",
+        "left": 7,
+        "top": 516,
+        "width": 100,
+        "height": 50,
+        "fill": "orange",
+        "opacity": 0.5,
+        "scaleX": 6.86,
+        "scaleY": 1.94,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "Beschreibung unterhalb der Darstellung: (originaltexte weiter unten)\nEinst war groß die Tugend und des Himmels würdig, ein ungebrochenes Herz der Freundschaft zu bieten, als Frömmigkeit und der uralte Glaube auf dem Erdkreis regierten und der Gute eines Preises würdig war./ Wenn ich mit den Zungen der Menschen sprechen und sogar der Geist selbst (in mir) brennen sollte, ist es vergeblich, wenn die rechte Liebe fehlen würde. Wenn ich aber die Geheimnisse, den berühmten Propheten abgenommen, kennen sollte, nützt es nichts, wenn die fromme Liebe fehlen würde./ Die reine Liebe gibt alles und hofft alles, und ihre Gnade steht bereit für alle gepeinigten Männer. Du solltest du also für andere sein wollen, wie du selbst für dich bist, und die Übel deines Nächsten für deinen Schaden halten./ Mit deiner Habe sollst du den Elenden helfen, mit Worten die Leidenden trösten und den anderen das tun, was du selbst zu erleiden wünschst. Denn es ist ein himmlisches Geschenk der Glaube, (und) die nach dem Künftigen dürstende Hoffnung: Die gottesfürchtige Liebe ist größer als diese. (Übersetzung A. E.) \n\nQuondam magna fuit Virtus, ac ӕthere digna, Prebere infractum pectus amicitiӕ. Cum Pietas, et cana fides regnaret in orbe, Et pretio dignus qui bonus eßet erat./ Si linguis hominū loquar, et uel spiritus ipse Ardeat, in nihilū est, si bonus absit Amor. Quod si preclaris mijsteria dempta Prophetis Sciuero, nil prodest, si pius absit Amor./ Omnia cedit Amor sijncerus, et omnia sperat, Gratiaque afflictis est sua prompta uiris. Eße uelis aliis ergo, tibi qualis es ipse, Et mala uicini, damna putare tua./ Reque Juues miseros, uerbis solare dolentes, Et facias alijs, quod cupis ipse pati. Nam celeste Fides donum est Sitibunda futuri Spes: horum maior Relligiosus Amor.\n\nDanckt deur die groote Liefde Godt onsen vader, Die sȳn eenighen sone niet en heeft ghespaert, Die tuerloren schaep uondē heeft (noyt gheē ghenader) Op sÿn schouderē ghedraghen uoor den wolf bewaert./ Clopt voor de deure der Christelijcker kercken, V wort op ghedaen, en ghij sult worden uerhoort, Maer wilt uwen gheest in liefden verstercken, Op dat tGhelooue in Christo brengt uruchtē uoort./ Christus het euen beelt des vaders almachtich, Den wech des leuens, om te ulieden deerwighe doot. Heeft ons versoent, deur sijn liefdē crachtich. Ons sijns vaders ryck gheopent wt ghenadē groot./ Op dat wij ons Liefde oock sonden bethoonen, Aenonsen euen naesten in desen tijt, (Niet dat hij wt scheijdt eenighe persoonen) Daer aen salmen sien dat ghij Gods kinderenzijt. ",
+      "Links": null
+    },
+    {
+      "areaID": "Glaube, Hoffnung und die wahrhaftige Liebe",
+      "rect": {
+        "type": "rect",
+        "left": 71,
+        "top": 2,
+        "width": 100,
+        "height": 50,
+        "fill": "black",
+        "opacity": 0.5,
+        "scaleX": 1.56,
+        "scaleY": 0.3,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "CŒLICA DONA FOIDES, SPES, ET DILECTIO VERA, PRӕBENT INFRACTVM PECTVS ASD OMNE BONVM.\nDie himmlischen Gaben – Glaube, Hoffnung und die wahrhaftige Liebe – reichen die ungebrochene Brust jedem Gut dar reichen die ungebrochene Brust jedem Gut dar. (Übersetzung A. E.)",
+      "Links": null
+    },
+    {
+      "areaID": "Liebe GlaubeGlaube",
+      "rect": {
+        "type": "rect",
+        "left": 437,
+        "top": -1,
+        "width": 100,
+        "height": 50,
+        "fill": "blue",
+        "opacity": 0.5,
+        "scaleX": 1.75,
+        "scaleY": 0.36,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "LIEFDE IS DE VRUCHT VAN T'GHELOOVE CORRECKT, DEN BANT DER VOLCOMENTHZ DIE SY BEDECKT. \n\nDie Liebe ist die Frucht des rechten Glaubens, das Band der Vollkommenheit, die sie bedeckt.",
+      "Links": null
+    },
+    {
+      "areaID": "Kinder ",
+      "rect": {
+        "type": "rect",
+        "left": 344,
+        "top": 84,
+        "width": 100,
+        "height": 50,
+        "fill": "brown",
+        "opacity": 0.5,
+        "scaleX": 2.2,
+        "scaleY": 7.5,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "Eine klassische Verteutlichung dass es sich um Caritas handelt",
+      "Links": null
+    },
+    {
+      "areaID": "Caritas zeigt sitzendem Mann den rechten Weg",
+      "rect": {
+        "type": "rect",
+        "left": 130.7,
+        "top": 60,
+        "width": 100,
+        "height": 50,
+        "fill": "darkcyan",
+        "opacity": 0.5,
+        "scaleX": 3.23,
+        "scaleY": 9.04,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "",
+      "Links": null
+    },
+    {
+      "areaID": "Geste",
+      "rect": {
+        "type": "rect",
+        "left": 276.7,
+        "top": 62,
+        "width": 100,
+        "height": 50,
+        "fill": "gold",
+        "opacity": 0.5,
+        "scaleX": 3.81,
+        "scaleY": 2.54,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "Die Geste zeigt zum guten Hirten, Jesus Christus.",
+      "Links": null
+    },
+    {
+      "areaID": "Guter Hirte",
+      "rect": {
+        "type": "rect",
+        "left": 527,
+        "top": 116,
+        "width": 100,
+        "height": 50,
+        "fill": "green",
+        "opacity": 0.5,
+        "scaleX": 1.47,
+        "scaleY": 5.84,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "Der gute Hirte, Jesus Christus",
+      "Links": null
+    },
+    {
+      "areaID": "Himmelsöffnung",
+      "rect": {
+        "type": "rect",
+        "left": 2,
+        "top": 18,
+        "width": 100,
+        "height": 50,
+        "fill": "orange",
+        "opacity": 0.5,
+        "scaleX": 4,
+        "scaleY": 2.52,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "Dem Sünder wird in der Himmelsöffnung das Ewige Leben in Aussicht gestellt.",
+      "Links": null
+    },
+    {
+      "areaID": "Szene 1",
+      "rect": {
+        "type": "rect",
+        "left": -1,
+        "top": 133,
+        "width": 100,
+        "height": 50,
+        "fill": "olive",
+        "opacity": 0.5,
+        "scaleX": 1.51,
+        "scaleY": 4.61,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "",
+      "Links": null
+    },
+    {
+      "areaID": "Szene 2",
+      "rect": {
+        "type": "rect",
+        "left": 440,
+        "top": 196.37,
+        "width": 100,
+        "height": 50,
+        "fill": "white",
+        "opacity": 0.5,
+        "scaleX": 1,
+        "scaleY": 1.48,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "",
+      "Links": null
+    },
+    {
+      "areaID": "Szene 3",
+      "rect": {
+        "type": "rect",
+        "left": 412,
+        "top": 237,
+        "width": 100,
+        "height": 50,
+        "fill": "blue",
+        "opacity": 0.5,
+        "scaleX": 1.23,
+        "scaleY": 1.73,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "",
+      "Links": null
+    }
+  ],
   "Captured": 0,
   "Place": "",
   "YearIssued": "1620 [zwischen 1620-1654]",
@@ -14,7 +224,15 @@
     "GND119314851",
     "GND115830359"
   ],
-  "Tags": null,
+  "Tags": [
+    "Tugend",
+    "Theologiche Tugenden",
+    "Caritas",
+    "Nächstenliebe"
+  ],
+  "Posts": null,
   "Links": null,
-  "Status": "Bild zugeschnitten"
+  "Status": "fertig",
+  "BlogDate": "2016-11-04T17:38:58.453Z",
+  "PublishDate": "2016-11-04T17:38:58.453Z"
 }

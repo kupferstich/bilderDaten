@@ -2,7 +2,7 @@
   "ID": "PPN78358086X",
   "Title": "Occidens - Der Westwind",
   "Topic": "Die vier Winde",
-  "Text": "Occidens ist der [lateinische Begriff für Westen](https://de.wiktionary.org/wiki/occidens ). Wie bereits in den anderen Bildern [der vier Winde](https://kupferstich.github.io/tags/die-vier-winde/) sind zwei Westwinde links und rechts als kleine blasende Köpfe dargestellt.\n\nDer pustende Zephyrvs (Westwind) und Flora, die Göttin der Blumen, Gärtnerei und des Frühlings beherrschen den Kupferstich Occidens. Die Windsköpfe Lijbs und Corus gestalten die Wolkenwelt um die personifizierten Windgottheiten. \n\nUnter diesen läuft der Fluss Pindus und in der Ferne ist die Stadt Delphi zu erkennen. \nLinks vom Fluss ist der Pindus Gebirgszug (Pindus Mons) und vor diesem sind Horæ abgebildet, Göttinnen die über das geregelte Leben und das Menschenwerk wachen) sowie die Charites, die drei Göttinnen der Anmut.\nDer rechts abgebildete Berg ist der Parnass Gebirgsstock (Mons Parnassus) unter welchem Musen (Musæ) musizieren. Das Pferd hinter den Musæ isgt das Musenpferd Pegasus.\n\nDieser Kupferstich greift durch die Darstellung der Musen (die Schutzgöttinnen der Künste), des Berges Parnassus und des geflügelten Pferdes Pegasus die Thematik der Künste auf. Die Musen haben sich um die Hippocrene, die Quelle der Musen, versammelt und spielen dort auf verschiedenen Instrumenten wie beispielsweise einer Laute oder Flöte. Oberhalb der Hippocrene befindet sich der geflügelte Pegasus, welcher mit seinen Hufen, die bereits erwähnte Quelle am Helikon geschlagen haben soll. Dass die Angaben des Aufenthaltes der Musen variieren, ist durch die Betitelung des Berges als Mons Parnassus und nicht als Helikon ersichtlich. Die Darstellung der Liebesbeziehung zwischen dem Windgott Zephyrus und der Nymphe Flora sowie die Bezugnahme auf die Künste ist in diesem Kupferstich besonders gelungen. ",
+  "Text": "Occidens ist der [lateinische Begriff für Westen](https://de.wiktionary.org/wiki/occidens ). Wie bereits in den anderen Bildern [der vier Winde](https://kupferstich.github.io/tags/die-vier-winde/) sind zwei Westwinde links und rechts als kleine blasende Köpfe dargestellt.\n\nDer pustende Zephyrus (Westwind) und Flora, die Göttin der Blumen, Gärtnerei und des Frühlings beherrschen den Kupferstich Occidens. Die Windsköpfe Lijbs und Corus gestalten die Wolkenwelt um die personifizierten Windgottheiten. \n\nUnter diesen läuft der Fluss Pindus und in der Ferne ist die Stadt Delphi zu erkennen. \nLinks vom Fluss ist der Pindus Gebirgszug (Pindus Mons) und vor diesem sind Horæ abgebildet (Göttinnen die über das geregelte Leben und das Menschenwerk wachen) sowie die Charites, die drei Göttinnen der Anmut.\nDer rechts abgebildete Berg ist der Parnass Gebirgsstock (Mons Parnassus) unter welchem Musen (Musæ) musizieren. Das Pferd hinter den Musæ isgt das Musenpferd Pegasus.",
   "canvasWidth": 700,
   "canvasHeight": 700,
   "Areas": [
@@ -26,22 +26,98 @@
       "Links": null
     },
     {
-      "areaID": "Neuer Bereich",
+      "areaID": "Zephyrus und Flora ",
       "rect": {
         "type": "rect",
-        "left": 100,
-        "top": 100,
+        "left": 16.7,
+        "top": 34,
         "width": 100,
         "height": 50,
         "fill": "orange",
         "opacity": 0.5,
-        "scaleX": 1,
-        "scaleY": 1,
+        "scaleX": 4.84,
+        "scaleY": 8.28,
         "hasRotatingPoint": false
       },
       "Shape": "rect",
       "Coords": "",
-      "Text": "",
+      "Text": " Nachdem sich Zephyrus in Flora verliebte, verfolgte er sie, bis er sie schließlich heiratete. Es heißt, dass erst durch die Vereinigung des mild-wehenden Westwindes und der Mitgift der Gattin Flora (üppige Blütenpracht) der Frühling gesichert ist. ",
+      "Links": null
+    },
+    {
+      "areaID": "Musen, Pegasus und Berg Parnassus",
+      "rect": {
+        "type": "rect",
+        "left": 327.47,
+        "top": 295,
+        "width": 100,
+        "height": 50,
+        "fill": "brown",
+        "opacity": 0.5,
+        "scaleX": 2.29,
+        "scaleY": 6.3,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "Dieser Kupferstich greift durch die Darstellung der Musen (die Schutzgöttinnen der Künste), des Berges Parnassus und des geflügelten Pferdes Pegasus die Thematik der Künste auf. Die Musen haben sich um die Hippocrene, die Quelle der Musen, versammelt und spielen dort auf verschiedenen Instrumenten wie beispielsweise einer Laute oder Flöte. ",
+      "Links": null
+    },
+    {
+      "areaID": "Pegasus",
+      "rect": {
+        "type": "rect",
+        "left": 440,
+        "top": 362,
+        "width": 100,
+        "height": 50,
+        "fill": "darkcyan",
+        "opacity": 0.5,
+        "scaleX": 1,
+        "scaleY": 2.02,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "Oberhalb der Musen befindet sich der geflügelte Pegasus, welcher mit seinen Hufen die Quelle der Musen, die Hippocrene, am Helikon geschlagen haben soll. ",
+      "Links": null
+    },
+    {
+      "areaID": "Fluss Pindus \u0026 Delphi",
+      "rect": {
+        "type": "rect",
+        "left": 233,
+        "top": 436,
+        "width": 100,
+        "height": 50,
+        "fill": "gold",
+        "opacity": 0.5,
+        "scaleX": 1,
+        "scaleY": 2,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "Zentral vom unteren Bildrand fließt der Fluss Pindus zur Stadt Delphi in der Ferne",
+      "Links": null
+    },
+    {
+      "areaID": "Neuer Bereich",
+      "rect": {
+        "type": "rect",
+        "left": 17,
+        "top": 506,
+        "width": 100,
+        "height": 50,
+        "fill": "green",
+        "opacity": 0.5,
+        "scaleX": 2.04,
+        "scaleY": 2.49,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "Am linken Ufer des Flusses sind die Horæ abgebildet (Göttinnen die über das geregelte Leben und das Menschenwerk wachen) sowie die Charites, die drei Göttinnen der Anmut.",
       "Links": null
     }
   ],
@@ -59,7 +135,7 @@
   ],
   "Posts": null,
   "Links": null,
-  "Status": "Texte werden gepflegt",
-  "BlogDate": "2016-10-24T15:55:19.908Z",
-  "PublishDate": "2016-10-24T15:55:19.908Z"
+  "Status": "fertig",
+  "BlogDate": "2016-11-04T17:29:29.349Z",
+  "PublishDate": "2016-11-04T17:29:29.349Z"
 }
