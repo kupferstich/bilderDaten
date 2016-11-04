@@ -2,7 +2,7 @@
   "ID": "PPN78358086X",
   "Title": "Occidens - Der Westwind",
   "Topic": "Die vier Winde",
-  "Text": "",
+  "Text": "Occidens ist der [lateinische Begriff für Westen](https://de.wiktionary.org/wiki/occidens ). Wie bereits in den anderen Bildern [der vier Winde](https://kupferstich.github.io/tags/die-vier-winde/) sind zwei Westwinde links und rechts als kleine blasende Köpfe dargestellt.\n\nDer pustende Zephyrvs (Westwind) und Flora, die Göttin der Blumen, Gärtnerei und des Frühlings beherrschen den Kupferstich Occidens. Die Windsköpfe Lijbs und Corus gestalten die Wolkenwelt um die personifizierten Windgottheiten. \n\nUnter diesen läuft der Fluss Pindus und in der Ferne ist die Stadt Delphi zu erkennen. \nLinks vom Fluss ist der Pindus Gebirgszug (Pindus Mons) und vor diesem sind Horæ abgebildet, Göttinnen die über das geregelte Leben und das Menschenwerk wachen) sowie die Charites, die drei Göttinnen der Anmut.\nDer rechts abgebildete Berg ist der Parnass Gebirgsstock (Mons Parnassus) unter welchem Musen (Musæ) musizieren. Das Pferd hinter den Musæ isgt das Musenpferd Pegasus.\n\nDieser Kupferstich greift durch die Darstellung der Musen (die Schutzgöttinnen der Künste), des Berges Parnassus und des geflügelten Pferdes Pegasus die Thematik der Künste auf. Die Musen haben sich um die Hippocrene, die Quelle der Musen, versammelt und spielen dort auf verschiedenen Instrumenten wie beispielsweise einer Laute oder Flöte. Oberhalb der Hippocrene befindet sich der geflügelte Pegasus, welcher mit seinen Hufen, die bereits erwähnte Quelle am Helikon geschlagen haben soll. Dass die Angaben des Aufenthaltes der Musen variieren, ist durch die Betitelung des Berges als Mons Parnassus und nicht als Helikon ersichtlich. Die Darstellung der Liebesbeziehung zwischen dem Windgott Zephyrus und der Nymphe Flora sowie die Bezugnahme auf die Künste ist in diesem Kupferstich besonders gelungen. ",
   "canvasWidth": 700,
   "canvasHeight": 700,
   "Areas": [
@@ -24,6 +24,25 @@
       "Coords": "",
       "Text": "Ver erat, irriguos errabat Flora per hortos, / Dum Zephÿrus tepido mulcebat rura sereno: / Utque Deam vidit, caluit, fugit illa, sed iste / Fortior insequitur dando illi nomina nuptæ. / Possidet vnde Dea arbitrium cum nomine florum: / Dum passim pictis incinctæ vestibus Horæ / Et Charites flores rapiunt, nectuntque corollas: / Plectraque cum Musis torquet resonantia Phœbus.\n---\nEs war Frühling, Flora irrte durch die bewässerten Gärten, / solange der Zephyr die Länder mit heiterer Milde streichelte: / sobald er die Göttin erblickte, war er entflammt; jene ergriff die Flucht, aber er / verfolgte sie noch heftiger, indem er jener Braut den Namen verlieh. / Daher hat die Göttin die Herrschaft und den Namen der Blumen, / während überall die Horen, umgürtet in bunten Kleidern, / und die Grazien Blumen an sich reißen, Kränzchen flechten / und die widerschallenden Plektren Phoebus mit den Musen wendet.",
       "Links": null
+    },
+    {
+      "areaID": "Neuer Bereich",
+      "rect": {
+        "type": "rect",
+        "left": 100,
+        "top": 100,
+        "width": 100,
+        "height": 50,
+        "fill": "orange",
+        "opacity": 0.5,
+        "scaleX": 1,
+        "scaleY": 1,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "",
+      "Links": null
     }
   ],
   "Captured": 0,
@@ -38,6 +57,7 @@
     "Die vier Haupthimmelsrichtungen",
     "Die Zahl vier"
   ],
+  "Posts": null,
   "Links": null,
   "Status": "Texte werden gepflegt",
   "BlogDate": "2016-10-24T15:55:19.908Z",
