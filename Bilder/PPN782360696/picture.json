@@ -1,23 +1,23 @@
 {
   "ID": "PPN782360696",
-  "Title": "Ignis",
-  "Topic": "[Die vier Elemente]",
-  "Text": "Das ist ein Test\n\n---\nNoch ein Abschnitt\n\n---\nEin dritter Abschnitt",
+  "Title": "IGNIS - Feuer",
+  "Topic": "Die vier Elemente",
+  "Text": "Das Blatt Feuer ist das letzte in der Serie über die vier Elemente. Angefertigt wurden die Kupferstiche durch Johannes Sadeler nach einer Vorlage von Maarten de Vos. D.h. de Vos war der Künstler, welcher das Bild gestaltet hat. Gestochen wurde es durch Sadeler, welcher auch Verleger der Bilder dieser Serie war.\n\nBei der Darstellung des Feuers ist im Vordergrund eine unbekannte Frau abgebildet, welche Feuer und Blitze in ihrer rechten Hand hält. Die Landschaft im Hintergrund brennt komplett und erinnert ein wenig an manache Darstellungen der Hölle.",
   "canvasWidth": 700,
   "canvasHeight": 700,
   "Areas": [
     {
-      "areaID": "Neuer Bereich",
+      "areaID": "Feuerbündel und Blitze",
       "rect": {
         "type": "rect",
-        "left": 11,
-        "top": 46,
+        "left": 14.7,
+        "top": 13,
         "width": 100,
         "height": 50,
         "fill": "blue",
         "opacity": 0.5,
-        "scaleX": 1,
-        "scaleY": 3.52,
+        "scaleX": 0.92,
+        "scaleY": 4.44,
         "hasRotatingPoint": false
       },
       "Shape": "rect",
@@ -26,98 +26,60 @@
       "Links": null
     },
     {
-      "areaID": "Neuer Bereich",
+      "areaID": "Echse im Hintergrund",
       "rect": {
         "type": "rect",
-        "left": 81,
-        "top": 249,
-        "width": 100,
-        "height": 50,
-        "fill": "darkcyan",
-        "opacity": 0.5,
-        "scaleX": 1.23,
-        "scaleY": 4.94,
-        "hasRotatingPoint": false
-      },
-      "Shape": "rect",
-      "Coords": "",
-      "Text": "",
-      "Links": null
-    },
-    {
-      "areaID": "Neuer Bereich",
-      "rect": {
-        "type": "rect",
-        "left": 421,
-        "top": 99,
-        "width": 100,
-        "height": 50,
-        "fill": "black",
-        "opacity": 0.5,
-        "scaleX": 1,
-        "scaleY": 2.38,
-        "hasRotatingPoint": false
-      },
-      "Shape": "rect",
-      "Coords": "",
-      "Text": "",
-      "Links": null
-    },
-    {
-      "areaID": "Neuer Bereich",
-      "rect": {
-        "type": "rect",
-        "left": 569,
-        "top": 213,
+        "left": 517,
+        "top": 371,
         "width": 100,
         "height": 50,
         "fill": "brown",
         "opacity": 0.5,
-        "scaleX": 1,
-        "scaleY": 1,
+        "scaleX": 1.33,
+        "scaleY": 1.63,
         "hasRotatingPoint": false
       },
       "Shape": "rect",
       "Coords": "",
-      "Text": "",
+      "Text": "Ohne spezielle Bedeutung.",
       "Links": null
     },
     {
-      "areaID": "Neuer Bereich",
+      "areaID": "Kopf der Frau",
       "rect": {
         "type": "rect",
-        "left": 137,
-        "top": 34,
+        "left": 131,
+        "top": 41,
         "width": 100,
         "height": 50,
         "fill": "white",
         "opacity": 0.5,
-        "scaleX": 1,
+        "scaleX": 1.09,
         "scaleY": 1.8,
         "hasRotatingPoint": false
       },
       "Shape": "rect",
       "Coords": "",
-      "Text": "",
+      "Text": "Die Frau blickt in Richtung der Inschrift IGNIS.",
       "Links": null
     },
     {
-      "areaID": "Neuer Bereich",
+      "areaID": "Gemusterter Feuersalamander",
       "rect": {
         "type": "rect",
-        "left": 517,
-        "top": 386,
+        "left": 52,
+        "top": 242,
         "width": 100,
         "height": 50,
         "fill": "olive",
         "opacity": 0.5,
-        "scaleX": 1.35,
-        "scaleY": 1.35,
+        "scaleX": 1.61,
+        "scaleY": 4.94,
         "hasRotatingPoint": false
       },
       "Shape": "rect",
       "Coords": "",
-      "Text": "",
+      "Text": "Der Feuersalamander sitzt auf einem Feuer, welches durch ihn unterdrückt wird. Diese Darstellung kommt von einem alten Glauben. Der besagt, dass der Feuersalamander feuerfest ist.",
       "Links": null
     },
     {
@@ -136,26 +98,26 @@
       },
       "Shape": "rect",
       "Coords": "",
-      "Text": "",
+      "Text": "M. De vos inventor/ Jo. Sadeler fecit",
       "Links": null
     },
     {
-      "areaID": "Neuer Bereich",
+      "areaID": "Hintergrund",
       "rect": {
         "type": "rect",
-        "left": 100,
-        "top": 100,
+        "left": 352,
+        "top": 107,
         "width": 100,
         "height": 50,
-        "fill": "orange",
+        "fill": "blue",
         "opacity": 0.5,
-        "scaleX": 1,
-        "scaleY": 1,
+        "scaleX": 3.39,
+        "scaleY": 3.52,
         "hasRotatingPoint": false
       },
       "Shape": "rect",
       "Coords": "",
-      "Text": "",
+      "Text": "Brennende Landschaft im Hintergrund des Bildes.",
       "Links": null
     }
   ],
@@ -168,12 +130,12 @@
   ],
   "Tags": [
     "mystische 4",
-    "Rom",
-    "Bibel"
+    "Feuer",
+    "Die vier Elemente"
   ],
   "Posts": null,
   "Links": null,
-  "Status": "Bild zugeschnitten",
-  "BlogDate": "2016-10-19T13:22:10.709Z",
-  "PublishDate": "2016-10-19T13:22:10.709Z"
+  "Status": "fertig",
+  "BlogDate": "2016-11-11T12:33:07.332Z",
+  "PublishDate": "2016-11-11T12:33:07.332Z"
 }
