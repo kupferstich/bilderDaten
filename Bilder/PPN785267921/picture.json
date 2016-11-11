@@ -3,14 +3,20 @@
   "Title": "Qvis Evadet?",
   "Topic": "",
   "Text": "",
+  "canvasWidth": 0,
+  "canvasHeight": 0,
   "Areas": null,
   "Captured": 0,
   "Place": "",
-  "YearIssued": "1594 [ca. 1594]",
+  "YearIssued": "1594 ",
   "Persons": [
     "GND118540610",
     "GND119665441"
   ],
+  "Tags": null,
+  "Posts": null,
   "Links": null,
-  "Status": ""
+  "Status": "Bild zugeschnitten",
+  "BlogDate": "0001-01-01T00:00:00Z",
+  "PublishDate": "0001-01-01T00:00:00Z"
 }

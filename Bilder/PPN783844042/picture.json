@@ -1,9 +1,69 @@
 {
   "ID": "PPN783844042",
-  "Title": "Wie Salt Ontgaen",
-  "Topic": "",
+  "Title": "Wje Salt Ontgaen?",
+  "Topic": "Allegorie der Vergänglichkeit",
   "Text": "",
-  "Areas": null,
+  "canvasWidth": 700,
+  "canvasHeight": 700,
+  "Areas": [
+    {
+      "areaID": "Inschrift I",
+      "rect": {
+        "type": "rect",
+        "left": 39.7,
+        "top": 594,
+        "width": 100,
+        "height": 50,
+        "fill": "brown",
+        "opacity": 0.5,
+        "scaleX": 2.45,
+        "scaleY": 1.72,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "Het Leven cort, verrrast door des Doots fellecrachten. / Als een Roock end een Bloem seer haestelyc vergaet. / Waer naer soo wilt ghy dan, O domme Mensche wachten, / Leert sterven voor u tyt, En van het quaed afstaet; beschr. in der rechten Kartusche: \n\n---\n\nDas Leben ist kurz, gefangen durch die Kraft des Todes. Wie Rauch und Blumen entschwindet es sehr schnell. Worauf wartest Du dann noch, oh dumme Menschheit? Lerne, vor Deiner Zeit zu sterben und halte Dich fern vom Bösen, ",
+      "Links": null
+    },
+    {
+      "areaID": "Inschrift II",
+      "rect": {
+        "type": "rect",
+        "left": 373,
+        "top": 600,
+        "width": 100,
+        "height": 50,
+        "fill": "darkcyan",
+        "opacity": 0.5,
+        "scaleX": 2.5,
+        "scaleY": 1.74,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "Op dat de Siele vry van des Vleyschs swaere banden / Te veerdigher mach zyn om op te vlieghen snel. / Wt dese Weerelt, naer de hemelsche Waranden, / En aldaer vry van pyn, Eewich te wesen wel, R.D. \n\n---\n\n damit die Seele, befreit von den schweren Fesseln des Fleisches, noch mehr bereit ist, um schnell von dieser Erde zu den himmlischen Pforten zu fliegen und für die Ewigkeit im Guten sein, frei von Schmerz, R.D.",
+      "Links": null
+    },
+    {
+      "areaID": "WJE SALT ONTGAEN",
+      "rect": {
+        "type": "rect",
+        "left": 280,
+        "top": 628,
+        "width": 100,
+        "height": 50,
+        "fill": "blue",
+        "opacity": 0.5,
+        "scaleX": 1,
+        "scaleY": 1,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "",
+      "Links": null
+    }
+  ],
   "Captured": 0,
   "Place": "",
   "YearIssued": "1614",
@@ -11,6 +71,14 @@
     "GND118910906",
     "GND1050317297"
   ],
+  "Tags": [
+    "Vergänglichkeit",
+    "Totenkopf",
+    "Zeit"
+  ],
+  "Posts": null,
   "Links": null,
-  "Status": ""
+  "Status": "Texte werden gepflegt",
+  "BlogDate": "0001-01-01T00:00:00Z",
+  "PublishDate": "0001-01-01T00:00:00Z"
 }
