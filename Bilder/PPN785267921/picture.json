@@ -1,11 +1,202 @@
 {
   "ID": "PPN785267921",
-  "Title": "Qvis Evadet?",
-  "Topic": "",
-  "Text": "",
-  "canvasWidth": 0,
-  "canvasHeight": 0,
-  "Areas": null,
+  "Title": "Wer kann entkommen? - Qvis Evadet?",
+  "Topic": "Allegorie der Vergänglichkeit",
+  "Text": "Das Bild QVIS EVADET behandelt die Vergänglichkeit des Lebens. Abgebildet ist ein spielendes Kind, welches sich an einem Totenschädel abstützt. \n\nDie Verwendung von Totenkopf und Kind ist eine ganz schön schockierende Darstellung. Das ganze wird jedoch noch weiter gesteigert, durch Wahl der Perspektive. Denn nach längerer Betrachtung wird einem bewusst, dass man als Betrachter tiefer stehen muss, als das Kind sitzt. D.h. man selber steht in einer ausgehobenen Grube, welche sich als Grab herausstellt. \n\nDie Inschrift QVIS EVADET? ist somit auf einem Grabstein gemeißelt. Rechts hinter dem Kind steht eine brennende und rauchende Urne auf einem weiteren Grabstein.",
+  "canvasWidth": 700,
+  "canvasHeight": 700,
+  "Areas": [
+    {
+      "areaID": "Seifenblasen",
+      "rect": {
+        "type": "rect",
+        "left": 33,
+        "top": 53,
+        "width": 100,
+        "height": 50,
+        "fill": "brown",
+        "opacity": 0.5,
+        "scaleX": 1.46,
+        "scaleY": 2.3,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "Seifenblasen sind so alt wie die Seife, also ca. 5.000 Jahre ([Wikipedia](https://de.wikipedia.org/wiki/Seifenblase). Falls man sich wundert, ob auf dem Bild von 1594 Seifenblasen abgebildet sind.\n\nSeifenblasen standen aufgrund ihrer Natur schon seit immer für Vergänglichkeit.\n\nDas Kind benutzt hier einen Strohhalm, um die Seifenblasen zu erzeugen.",
+      "Links": null
+    },
+    {
+      "areaID": "Signatur des Kupferstechers",
+      "rect": {
+        "type": "rect",
+        "left": 12,
+        "top": 567,
+        "width": 100,
+        "height": 50,
+        "fill": "blue",
+        "opacity": 0.5,
+        "scaleX": 0.83,
+        "scaleY": 0.78,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "Durch ein Loch im Papier ist es leider nicht möglich den Kupferstecher zu bestimmen.",
+      "Links": null
+    },
+    {
+      "areaID": "Muschelschale",
+      "rect": {
+        "type": "rect",
+        "left": 286,
+        "top": 234,
+        "width": 100,
+        "height": 50,
+        "fill": "darkcyan",
+        "opacity": 0.5,
+        "scaleX": 1,
+        "scaleY": 1.14,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "In der Muschelschale ist die Seifenlauge für das Erstellen der Seifenblasen.",
+      "Links": null
+    },
+    {
+      "areaID": "QVIS EVADET?",
+      "rect": {
+        "type": "rect",
+        "left": 119,
+        "top": 515,
+        "width": 100,
+        "height": 50,
+        "fill": "blue",
+        "opacity": 0.5,
+        "scaleX": 2.27,
+        "scaleY": 0.78,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "Inschrift des Grabsteins: Wer kann entkommen?",
+      "Links": null
+    },
+    {
+      "areaID": "Eintagslilie",
+      "rect": {
+        "type": "rect",
+        "left": 1,
+        "top": 244,
+        "width": 100,
+        "height": 50,
+        "fill": "green",
+        "opacity": 0.5,
+        "scaleX": 0.96,
+        "scaleY": 5.98,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "Eintagslilie mit teils geöffneten und teils geschlossenen Blüten.",
+      "Links": null
+    },
+    {
+      "areaID": "halb-verdorrter Baum",
+      "rect": {
+        "type": "rect",
+        "left": 1,
+        "top": 112,
+        "width": 100,
+        "height": 50,
+        "fill": "olive",
+        "opacity": 0.5,
+        "scaleX": 0.73,
+        "scaleY": 2.08,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "Der Baum im Hintergrund ist zur Hälfte verdorrt und zur Hälfte mit Blättern bestückt.",
+      "Links": null
+    },
+    {
+      "areaID": "Dorf im Hintergrund",
+      "rect": {
+        "type": "rect",
+        "left": 100,
+        "top": 204,
+        "width": 100,
+        "height": 50,
+        "fill": "white",
+        "opacity": 0.5,
+        "scaleX": 1,
+        "scaleY": 1,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "",
+      "Links": null
+    },
+    {
+      "areaID": "brennende und rauchende Urne",
+      "rect": {
+        "type": "rect",
+        "left": 366.69,
+        "top": 76,
+        "width": 100,
+        "height": 50,
+        "fill": "green",
+        "opacity": 0.5,
+        "scaleX": 0.72,
+        "scaleY": 2.38,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "",
+      "Links": null
+    },
+    {
+      "areaID": "Signatur",
+      "rect": {
+        "type": "rect",
+        "left": 361,
+        "top": 519,
+        "width": 100,
+        "height": 50,
+        "fill": "black",
+        "opacity": 0.5,
+        "scaleX": 0.45,
+        "scaleY": 0.62,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "HG für Hendrick Goltzius",
+      "Links": null
+    },
+    {
+      "areaID": "Beschreibung des Bildes",
+      "rect": {
+        "type": "rect",
+        "left": 86,
+        "top": 554,
+        "width": 100,
+        "height": 50,
+        "fill": "brown",
+        "opacity": 0.5,
+        "scaleX": 2.76,
+        "scaleY": 1,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "Flos novus, et verna fragrans argenteus aura / Marescit subito, perit ali, perit illa venustas. / Sic et vita hominum iam nunc nascentibus, eheu, | Instar abit bullae vaniq[ue] elapsa vaporis.  \n\n---\n\nDie frische und silberne Blume, duftend vom Hauch des Frühlings, welkt sogleich, ihre Schönheit vergeht. So auch das Leben des Menschen, das schon im Neugeborenen schwindet, es vergeht wie eine Seifenblase oder wie flüchtiger Rauch.",
+      "Links": null
+    }
+  ],
   "Captured": 0,
   "Place": "",
   "YearIssued": "1594 ",
@@ -13,10 +204,20 @@
     "GND118540610",
     "GND119665441"
   ],
-  "Tags": null,
+  "Tags": [
+    "Vergänglichkeit",
+    "Tod",
+    "Totenkopf",
+    "Grab",
+    "Urne",
+    "Rauch",
+    "Seifenblasen",
+    "Kind",
+    "Allegorie der Vergänglichkeit"
+  ],
   "Posts": null,
   "Links": null,
-  "Status": "Bild zugeschnitten",
-  "BlogDate": "0001-01-01T00:00:00Z",
-  "PublishDate": "0001-01-01T00:00:00Z"
+  "Status": "fertig",
+  "BlogDate": "2016-11-13T10:12:23Z",
+  "PublishDate": "2016-11-13T10:12:23Z"
 }

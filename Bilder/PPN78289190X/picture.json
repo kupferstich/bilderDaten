@@ -1,8 +1,8 @@
 {
   "ID": "PPN78289190X",
   "Title": "Susanna",
-  "Topic": "[Acht berühmte Frauen aus dem Alten und Neuen Testament]",
-  "Text": "",
+  "Topic": "Acht berühmte Frauen aus dem Alten und Neuen Testament",
+  "Text": "[Susanna im Bade](https://de.wikipedia.org/wiki/Susanna_im_Bade)",
   "canvasWidth": 700,
   "canvasHeight": 700,
   "Areas": [
@@ -76,8 +76,9 @@
     "Bibel",
     "acht Frauen"
   ],
+  "Posts": null,
   "Links": null,
   "Status": "Bild zugeschnitten",
-  "BlogDate": "2016-10-19T13:23:56.717Z",
-  "PublishDate": "2016-10-19T13:23:56.717Z"
+  "BlogDate": "2016-11-30T17:15:06.419Z",
+  "PublishDate": "2016-11-30T17:15:06.419Z"
 }

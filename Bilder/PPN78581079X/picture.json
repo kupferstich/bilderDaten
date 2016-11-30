@@ -1,18 +1,141 @@
 {
   "ID": "PPN78581079X",
-  "Title": "Fortitudo, Patientia",
-  "Topic": "[Die vereinigten Tugenden]",
-  "Text": "",
-  "canvasWidth": 0,
-  "canvasHeight": 0,
-  "Areas": null,
+  "Title": "Fortitudo und Patientia",
+  "Topic": "Die vereinigten Tugenden",
+  "Text": "[Fortitudo](https://de.wikipedia.org/wiki/Tapferkeit) und [Patientia](https://de.wikipedia.org/wiki/Geduld) stehen für die Tugenden Stärke und Geduld. Der Kupferstich wurde ca. 1576 angefertigt. \n\nAuf dem Bild sind zwei nackte Frauen abgebildet, welche kurz davor sind sich zu küssen. ",
+  "canvasWidth": 700,
+  "canvasHeight": 700,
+  "Areas": [
+    {
+      "areaID": "Inschrift",
+      "rect": {
+        "type": "rect",
+        "left": 196,
+        "top": 485,
+        "width": 100,
+        "height": 50,
+        "fill": "blue",
+        "opacity": 0.5,
+        "scaleX": 0.68,
+        "scaleY": 0.56,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "Der Urheber Goltzius hat hier einen Verweis auf seine Urheberschaft gesetzt. Das Besondere im Kontext der anderen Blätter der _Die vereinigten Tugenden_ ist, dass dieses das einzige Blatt mit seiner Unterschrift ist.\n\nDer erste Buchstabe vereint das H und G für Hendrick Goltzius. Da kein weiterer Hinweis auf andere Urheber vorhanden ist, wird hier davon ausgegangen, dass Goltzius Inventor, Stecher und Verleger war.",
+      "Links": null
+    },
+    {
+      "areaID": "Bildunterschrift",
+      "rect": {
+        "type": "rect",
+        "left": 37,
+        "top": 513,
+        "width": 100,
+        "height": 50,
+        "fill": "brown",
+        "opacity": 0.5,
+        "scaleX": 5.95,
+        "scaleY": 0.72,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "Grandia robusto faciunt in corpore vires, Si Patiens aderit mens, graviora ferent.\n\n---\n\nGroßartiges leisten in einem starken Körper die Kräfte, wenn ein geduldiges Gemüt dazukommt, werden sie noch Schwereres ertragen.",
+      "Links": null
+    },
+    {
+      "areaID": "belagerte Stadt im Hintergrund",
+      "rect": {
+        "type": "rect",
+        "left": 549,
+        "top": 272,
+        "width": 100,
+        "height": 50,
+        "fill": "darkcyan",
+        "opacity": 0.5,
+        "scaleX": 1.43,
+        "scaleY": 1.28,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "Im Hintergrund ist ganz fein eine Stadt dargestellt, welche durch Krieger angegriffen wird. Bei der Anfertigung dieses Stiches befand sich die Niederlande ca. 20 Jahre im Krieg. \n\nIn diesem Kontext sind die Figuren, welche Stärke und Geduld darstellen, eine Erinnerung daran, dass der Krieg eben mit diesen Tugenden überstanden werden kann.",
+      "Links": null
+    },
+    {
+      "areaID": "Amboss und drei Hämmer",
+      "rect": {
+        "type": "rect",
+        "left": 291,
+        "top": 433,
+        "width": 100,
+        "height": 50,
+        "fill": "gold",
+        "opacity": 0.5,
+        "scaleX": 1,
+        "scaleY": 1.58,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "Der rechte Fuß der Frau stützt sich auf dem Amboss mit den drei Hämmern ab. Das Besondere hier ist, dass diese Symbole eigentlich zu Patientia zuzuordnen sind.",
+      "Links": null
+    },
+    {
+      "areaID": "Handpresse",
+      "rect": {
+        "type": "rect",
+        "left": 310,
+        "top": 173,
+        "width": 100,
+        "height": 50,
+        "fill": "green",
+        "opacity": 0.5,
+        "scaleX": 1.89,
+        "scaleY": 2.26,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "Patientia hält die Hanpresse. Ganz spannend an der Stelle ist, dass diese Presse eigentlich gar kein typisches Symbol für die Geduld darstellt. Aus diesem Grund hat Goltzius auf dem Bild zusätzlich den Amboss und die Hämmer dargestellt, denn Schmiedewerkzeug ist von der Symbolik der Patientia zuzuordnen.",
+      "Links": null
+    },
+    {
+      "areaID": "kurz vor dem Kuss",
+      "rect": {
+        "type": "rect",
+        "left": 177,
+        "top": 69,
+        "width": 100,
+        "height": 50,
+        "fill": "black",
+        "opacity": 0.5,
+        "scaleX": 1.36,
+        "scaleY": 2.02,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "",
+      "Links": null
+    }
+  ],
   "Captured": 0,
   "Place": "",
-  "YearIssued": "1576 [1576-1600]",
+  "YearIssued": "1576",
   "Persons": [
     "GND118540610"
   ],
-  "Tags": null,
+  "Tags": [
+    "Die vereinigten Tugenden",
+    "Nacktheit",
+    "Patientia",
+    "Fortitudo"
+  ],
+  "Posts": null,
   "Links": null,
-  "Status": "Bild zugeschnitten"
+  "Status": "fertig",
+  "BlogDate": "2016-11-24T19:35:54.258Z",
+  "PublishDate": "2016-11-24T19:35:54.258Z"
 }
