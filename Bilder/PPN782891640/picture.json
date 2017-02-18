@@ -3,6 +3,8 @@
   "Title": "Hester",
   "Topic": "[Acht berühmte Frauen aus dem Alten und Neuen Testament]",
   "Text": "",
+  "canvasWidth": 0,
+  "canvasHeight": 0,
   "Areas": null,
   "Captured": 0,
   "Place": "",
@@ -12,6 +14,10 @@
     "GND100811957",
     "GND1038562066"
   ],
+  "Tags": null,
+  "Posts": null,
   "Links": null,
-  "Status": ""
+  "Status": "Bild zugeschnitten",
+  "BlogDate": "0001-01-01T00:00:00Z",
+  "PublishDate": "0001-01-01T00:00:00Z"
 }

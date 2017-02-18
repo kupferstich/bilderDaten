@@ -1,15 +1,235 @@
 {
   "ID": "PPN782978509",
-  "Title": "Cultura Mundi",
-  "Topic": "[Quattuor servitutes hominum] = [Die vier Arten auf der Welt zu leben]",
+  "Title": "Verehrung der Welt - Cultura Mundi",
+  "Topic": "Quattuor servitutes hominum",
   "Text": "",
-  "Areas": null,
+  "canvasWidth": 700,
+  "canvasHeight": 700,
+  "Areas": [
+    {
+      "areaID": "Bildunterschrift",
+      "rect": {
+        "type": "rect",
+        "left": 71,
+        "top": 554,
+        "width": 100,
+        "height": 50,
+        "fill": "black",
+        "opacity": 0.5,
+        "scaleX": 5.23,
+        "scaleY": 0.62,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "Tristis avaritie rabies nummiq cupido, / Et levis Ambitio perfusaque Gloria fuco / Ad predam, strepitumque lucri suffragia Vertunt / Sic manifesta patet falsi fallacia mundi.\n\n---\n\nDie unheilvolle Raserei der Habgier und die Gier nach Geld und der wankelmütige Ehrgeiz und die mit Schminke übergossene Ruhmsucht wenden die Stimmen nach Gewinn zu Beute und Getöse, so offenkundig zeigt sich die Täuschung der falschen Welt.",
+      "Links": null
+    },
+    {
+      "areaID": "Ambitio - der Ehrgeiz",
+      "rect": {
+        "type": "rect",
+        "left": 503,
+        "top": 130,
+        "width": 100,
+        "height": 50,
+        "fill": "blue",
+        "opacity": 0.5,
+        "scaleX": 1.23,
+        "scaleY": 2.6,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "",
+      "Links": null
+    },
+    {
+      "areaID": "Avaritia - der Geiz",
+      "rect": {
+        "type": "rect",
+        "left": 311,
+        "top": 106,
+        "width": 100,
+        "height": 50,
+        "fill": "brown",
+        "opacity": 0.5,
+        "scaleX": 1,
+        "scaleY": 1.96,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "",
+      "Links": null
+    },
+    {
+      "areaID": "Die Kröte",
+      "rect": {
+        "type": "rect",
+        "left": 288.7,
+        "top": 410,
+        "width": 100,
+        "height": 50,
+        "fill": "darkcyan",
+        "opacity": 0.5,
+        "scaleX": 0.7,
+        "scaleY": 1,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "Die Kröte ist das Symboltiert von Avaritia (Geiz).",
+      "Links": null
+    },
+    {
+      "areaID": "Mundus - die Welt",
+      "rect": {
+        "type": "rect",
+        "left": 98.7,
+        "top": 23,
+        "width": 100,
+        "height": 50,
+        "fill": "gold",
+        "opacity": 0.5,
+        "scaleX": 1.22,
+        "scaleY": 3.2,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "",
+      "Links": null
+    },
+    {
+      "areaID": "Kröte auf der Geldtruhe",
+      "rect": {
+        "type": "rect",
+        "left": 74.7,
+        "top": 430,
+        "width": 100,
+        "height": 50,
+        "fill": "green",
+        "opacity": 0.5,
+        "scaleX": 0.79,
+        "scaleY": 1.38,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "Auf dem Sockel der Welt ist eine Kröte dargestellt, welche auf einer Geldtruhe sitzt. Die Kröte ist hier das Symboltier des Geizes.",
+      "Links": null
+    },
+    {
+      "areaID": "Lorbeeren und Gewinn",
+      "rect": {
+        "type": "rect",
+        "left": 230,
+        "top": 135,
+        "width": 100,
+        "height": 50,
+        "fill": "olive",
+        "opacity": 0.5,
+        "scaleX": 1.17,
+        "scaleY": 2.08,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "Die Welt überreicht dem Menschen den durch den Ehrgeiz erworbenen Lorbeer und den zum Geiz gehörenden Gewinn.\n\nAls Gegenleistung überreicht der Mensch hier sein Herz.",
+      "Links": null
+    },
+    {
+      "areaID": "Famia - der Ruhm",
+      "rect": {
+        "type": "rect",
+        "left": 474,
+        "top": 4,
+        "width": 100,
+        "height": 50,
+        "fill": "white",
+        "opacity": 0.5,
+        "scaleX": 2.2,
+        "scaleY": 1.9,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "",
+      "Links": null
+    },
+    {
+      "areaID": "Judas und der Hohepriester",
+      "rect": {
+        "type": "rect",
+        "left": 182,
+        "top": 202,
+        "width": 100,
+        "height": 50,
+        "fill": "white",
+        "opacity": 0.5,
+        "scaleX": 1,
+        "scaleY": 2.27,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "Darstellung der Geschichte, wo Judas aus Geldgier Jesus für Silberstücke an die Hohepriester veraten hat.",
+      "Links": null
+    },
+    {
+      "areaID": "Ende der Judasgeschichte",
+      "rect": {
+        "type": "rect",
+        "left": 465.7,
+        "top": 117,
+        "width": 100,
+        "height": 50,
+        "fill": "brown",
+        "opacity": 0.5,
+        "scaleX": 0.39,
+        "scaleY": 1,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "Aus Verzweiflung erhängt sich Judas an einem Ast.",
+      "Links": null
+    },
+    {
+      "areaID": "Geschichte des Abimelech",
+      "rect": {
+        "type": "rect",
+        "left": 595,
+        "top": 124,
+        "width": 100,
+        "height": 50,
+        "fill": "darkcyan",
+        "opacity": 0.5,
+        "scaleX": 1,
+        "scaleY": 3.54,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "Hier ist die Geschichte des [Königs von Gerar](https://de.wikipedia.org/wiki/Abimelech) dargestellt, welcher vor den Mauern von Tebez zu Tode kommt.",
+      "Links": null
+    }
+  ],
   "Captured": 0,
   "Place": "",
-  "YearIssued": "1573 [ca. 1573]",
+  "YearIssued": "1573",
   "Persons": [
     "GND118168916"
   ],
+  "Tags": [
+    "Die vier Arten auf der Welt zu leben",
+    "Jesus",
+    "Judas"
+  ],
+  "Posts": null,
   "Links": null,
-  "Status": ""
+  "Status": "fertig",
+  "BlogDate": "2016-12-10T08:10:41.102Z",
+  "PublishDate": "2016-12-10T08:10:41.102Z"
 }

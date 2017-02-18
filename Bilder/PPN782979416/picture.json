@@ -3,6 +3,8 @@
   "Title": "Cultura Christi",
   "Topic": "[Quattuor servitutes hominum] = [Die vier Arten auf der Welt zu leben]",
   "Text": "",
+  "canvasWidth": 0,
+  "canvasHeight": 0,
   "Areas": null,
   "Captured": 0,
   "Place": "",
@@ -10,6 +12,10 @@
   "Persons": [
     "GND118168916"
   ],
+  "Tags": null,
+  "Posts": null,
   "Links": null,
-  "Status": ""
+  "Status": "Bild zugeschnitten",
+  "BlogDate": "0001-01-01T00:00:00Z",
+  "PublishDate": "0001-01-01T00:00:00Z"
 }

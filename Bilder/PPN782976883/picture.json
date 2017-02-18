@@ -3,6 +3,8 @@
   "Title": "Formavit Dominus Deus hominem de Limo terrae \u0026 inspiravit in faciem ejus spiramen vitae, ...",
   "Topic": "",
   "Text": "",
+  "canvasWidth": 0,
+  "canvasHeight": 0,
   "Areas": null,
   "Captured": 0,
   "Place": "",
@@ -11,6 +13,10 @@
     "GND118643177",
     "GND10006096X"
   ],
+  "Tags": null,
+  "Posts": null,
   "Links": null,
-  "Status": ""
+  "Status": "Bild zugeschnitten",
+  "BlogDate": "0001-01-01T00:00:00Z",
+  "PublishDate": "0001-01-01T00:00:00Z"
 }

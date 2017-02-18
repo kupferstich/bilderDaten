@@ -1,15 +1,200 @@
 {
   "ID": "PPN782979068",
-  "Title": "Cultura Diaboli",
-  "Topic": "[Quattuor servitutes hominum] = [Die vier Arten auf der Welt zu leben]",
-  "Text": "",
-  "Areas": null,
+  "Title": "Verehrung des Teufels - Cultura Diaboli",
+  "Topic": "Quattuor servitutes hominum",
+  "Text": "Der Teufel sitzt hier auf einer großen Weltkugel und hält die Insignien der Macht (Zepter und Krönungsapfel) in seinen Händen. \n\n",
+  "canvasWidth": 700,
+  "canvasHeight": 700,
+  "Areas": [
+    {
+      "areaID": "Alterius prosperitas",
+      "rect": {
+        "type": "rect",
+        "left": 344,
+        "top": 264,
+        "width": 100,
+        "height": 50,
+        "fill": "blue",
+        "opacity": 0.5,
+        "scaleX": 1.07,
+        "scaleY": 1.42,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "Was trägt diese Person auf dem Rücken? Es ist ein Packet mit der Inschrift Alterius prosperitas übersetzt \"das Glück eines anderen\".",
+      "Links": null
+    },
+    {
+      "areaID": "Teufel",
+      "rect": {
+        "type": "rect",
+        "left": 307.7,
+        "top": 29,
+        "width": 100,
+        "height": 50,
+        "fill": "brown",
+        "opacity": 0.5,
+        "scaleX": 0.74,
+        "scaleY": 1.18,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "",
+      "Links": null
+    },
+    {
+      "areaID": "Bildunterschrift",
+      "rect": {
+        "type": "rect",
+        "left": 40,
+        "top": 533,
+        "width": 100,
+        "height": 50,
+        "fill": "darkcyan",
+        "opacity": 0.5,
+        "scaleX": 5.86,
+        "scaleY": 0.9,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "Qui genus hoc inter vite versatur ut atra / Fortune inuidiam consanguinitate ligarit, / Demon erat, vacua dentes in pelle fatigans, / Et tacitus querens quam poßet rodere carnem.\n\n---\n\nWer solchem Lebenswandel ergeben ist, nachdem er den Neid mit schwarzer Blutsverwandtschaft dem Glück verbunden hat, der war ein Dämon, welcher seine Zähne am bloßen Leder zerrieb und im Stillen suchte, welches Fleisch er nagen könne",
+      "Links": null
+    },
+    {
+      "areaID": "Zepter und Krönungsapfel",
+      "rect": {
+        "type": "rect",
+        "left": 235,
+        "top": 36,
+        "width": 100,
+        "height": 50,
+        "fill": "gold",
+        "opacity": 0.5,
+        "scaleX": 2.12,
+        "scaleY": 2.26,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "Der Teufel hällt hier die Insignien der Macht in seinen Händen. Auf dem Krönungsapfel droht ein grinsender Totenkopf und darunter brennen die Flammen der Hölle.",
+      "Links": null
+    },
+    {
+      "areaID": "Superbia",
+      "rect": {
+        "type": "rect",
+        "left": 156.7,
+        "top": 106,
+        "width": 100,
+        "height": 50,
+        "fill": "green",
+        "opacity": 0.5,
+        "scaleX": 1.53,
+        "scaleY": 4.18,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "Superbia als Darstellung für Stolz und [Hochmut](https://de.wikipedia.org/wiki/Hochmut) reicht dem Menschen eine Pfauenkrone. \n\nDer Pfau ist das Symboltier des Stolzes. Diese ist der erste und die schlimmste der Todsünden.",
+      "Links": null
+    },
+    {
+      "areaID": "Pfauenkrone",
+      "rect": {
+        "type": "rect",
+        "left": 333,
+        "top": 175,
+        "width": 100,
+        "height": 50,
+        "fill": "olive",
+        "opacity": 0.5,
+        "scaleX": 1,
+        "scaleY": 1,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "",
+      "Links": null
+    },
+    {
+      "areaID": "Invidia",
+      "rect": {
+        "type": "rect",
+        "left": 455,
+        "top": 132,
+        "width": 100,
+        "height": 50,
+        "fill": "blue",
+        "opacity": 0.5,
+        "scaleX": 1.18,
+        "scaleY": 3.98,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "Invidia - der Neid, ist symbolisch mit den Schlangen dargestellt.",
+      "Links": null
+    },
+    {
+      "areaID": "Verkauf Josephs",
+      "rect": {
+        "type": "rect",
+        "left": 555,
+        "top": 198,
+        "width": 100,
+        "height": 50,
+        "fill": "brown",
+        "opacity": 0.5,
+        "scaleX": 1,
+        "scaleY": 1.38,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "Vor dem Tempel ist eine kleine Szene dargestellt, bei der es sich um den Verkauf des Josephs durch seine neidischen Brüder handelt. In der Darstellung ziehen diese ihren Bruder gerade aus dem Brunnen.",
+      "Links": null
+    },
+    {
+      "areaID": "Mordecai auf dem Pferd",
+      "rect": {
+        "type": "rect",
+        "left": 32,
+        "top": 199,
+        "width": 100,
+        "height": 50,
+        "fill": "gold",
+        "opacity": 0.5,
+        "scaleX": 1,
+        "scaleY": 2.41,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Text": "",
+      "Links": null
+    }
+  ],
   "Captured": 0,
   "Place": "",
-  "YearIssued": "1573 [ca. 1573]",
+  "YearIssued": "1573",
   "Persons": [
     "GND118168916"
   ],
+  "Tags": [
+    "Teufel",
+    "Die vier Arten auf der Welt zu leben",
+    "Die vier Sklavendienste der Menschen",
+    "Schlangen",
+    "Pfau",
+    "Totenkopf"
+  ],
+  "Posts": null,
   "Links": null,
-  "Status": ""
+  "Status": "fertig",
+  "BlogDate": "2016-12-08T21:16:34.304Z",
+  "PublishDate": "2016-12-08T21:16:34.304Z"
 }

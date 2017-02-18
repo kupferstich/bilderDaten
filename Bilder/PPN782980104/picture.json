@@ -3,6 +3,8 @@
   "Title": "Opulentia",
   "Topic": "[Circulus Vicissitudinis Rerum Humanarum] = [Der Kreislauf des menschlichen Daseins]",
   "Text": "",
+  "canvasWidth": 0,
+  "canvasHeight": 0,
   "Areas": null,
   "Captured": 0,
   "Place": "",
@@ -11,6 +13,10 @@
     "GND118547658",
     "GND11912081X"
   ],
+  "Tags": null,
+  "Posts": null,
   "Links": null,
-  "Status": ""
+  "Status": "Bild zugeschnitten",
+  "BlogDate": "0001-01-01T00:00:00Z",
+  "PublishDate": "0001-01-01T00:00:00Z"
 }

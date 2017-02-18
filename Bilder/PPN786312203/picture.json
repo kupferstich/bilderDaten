@@ -1,16 +1,25 @@
 {
   "ID": "PPN786312203",
-  "Title": "[Jüngstes Gericht]",
-  "Topic": "[Allegorischer Triumphzug]",
+  "Title": "Jüngstes Gericht",
+  "Topic": "Allegorischer Triumphzug",
   "Text": "",
+  "canvasWidth": 0,
+  "canvasHeight": 0,
   "Areas": null,
   "Captured": 0,
   "Place": "",
-  "YearIssued": "1619 [vor 1619]",
+  "YearIssued": "1619",
   "Persons": [
     "GND132316307",
     "GND119314851"
   ],
+  "Tags": [
+    "Bibel",
+    "Jesus"
+  ],
+  "Posts": null,
   "Links": null,
-  "Status": ""
+  "Status": "Bild zugeschnitten",
+  "BlogDate": "2016-11-30T17:36:14.726Z",
+  "PublishDate": "2016-11-30T17:36:14.726Z"
 }
